@@ -10,7 +10,7 @@
   },
   "chef_type": "role",
   "run_list": [
-    "recipe[jenkincookbook::java_testserver]"
+    "recipe[jenkincookbook::java_installation]"
   ],
   "env_run_lists": {
 
